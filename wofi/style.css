@@ -1,0 +1,33 @@
+*{
+    border-radius: 10px;
+}
+
+window{
+    font-size: 28px;
+    background-color: rgba(50,50,50,0.9);
+    /* border: 10px solid red; */
+}
+
+#entry{
+    padding: 0.15em;
+    /* border: 10px solid red; */
+}
+
+#entry:selected{
+    background-color: rgba(100,100,100,1);
+    
+}
+
+#text:selected{
+    color: rgb(240, 248, 255);
+}
+
+#input{
+    /* background-color: cyan; */
+    /* border: 10px solid red; */
+}
+
+image{
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+}
